@@ -1,0 +1,44 @@
+.bg-main {
+    background-color: var(--main-color);
+}
+.bg-secondary {
+    background-color: var(--secondary-color);
+}
+.bg-light {
+    background-color: var(--light-color);
+}
+
+h2 {
+    display: inline-block;
+    width: 100%;
+    font-size: 48px;
+    line-height: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    position: relative;
+
+}
+    h2.center {
+        text-align: center;
+    }
+    h2::before {
+        display: inline-block;
+        content: '';
+        width: 100px;
+        height: 2px;
+        background-color: var(--secondary-color);
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+    }
+    h2::after {
+        display: inline-block;
+        content: '';
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background-color: var(--secondary-color);
+        position: absolute;
+        bottom: -15px;
+        left: 0;
+    }
