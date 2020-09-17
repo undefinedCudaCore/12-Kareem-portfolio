@@ -4,7 +4,7 @@
 
 Site published [Here](https://undefinedcudacore.github.io/12-Kareem-portfolio/index.html)
 
-Design assets: [Exill](http://exill.dk/demo/codex/template/particles.html)
+Design assets: [Karem](https://karmen-v2-html5-portfolio-template.netlify.app/karmen-html5-portfolio-theme/minified/index.html#)
 
 Start date: April 2020
 
